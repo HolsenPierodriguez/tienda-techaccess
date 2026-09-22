@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-04 07:51:57+0000\n"
+"PO-Revision-Date: 2026-09-15 11:38:57+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2402,7 +2402,7 @@ msgstr "No se ha podido enviar el correo electrónico «%1$s»: %2$s."
 #. translators: %s: Email title or type identifier
 #: src/Internal/Email/EmailLogger.php:180
 msgid "Email \"%s\" sent."
-msgstr "Se ha enviado el correo electrónico «%s»-"
+msgstr "Se ha enviado el correo electrónico «%s»."
 
 #. translators: %s: the invalid path segment
 #: src/Internal/Api/Settings.php:177
@@ -16757,7 +16757,7 @@ msgstr "Calcula automáticamente cuántos impuestos que hay que pagar - por ciud
 
 #: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:619
 msgid "Get automated tax rates with WooCommerce Tax"
-msgstr "Consigue tasas de impuestos automáticas con WooCommerce Tax"
+msgstr "Consigue tipos impositivos automáticas con WooCommerce Tax"
 
 #: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:586
 msgid "Reach millions of active shoppers across Google with free product listings and ads."
